@@ -1,8 +1,7 @@
 {
-  "name": "joshraza_scraper",
+  "name": "dasoertliche_scraper",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://aleksandaralek@github.com/aleksandaralek/joshraza_scraper.git",
   "license": "MIT",
   "type": "module",
   "dependencies": {
